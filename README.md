@@ -10,5 +10,12 @@
 - yarn add typescript ts-node ts-node-dev 
 - yarn add @types/express 安装 Express 的声明文件
 - tsc --init 创建 tsconfig.json 文件
+- 配置 tsconfig.json 
+
+
+
+## 注意
+
+我们建议仅仅在开发坏境中使用 TypeScript 进行开发，如果你要在生产环境中使用，最好还是把 TS 变成 JS，然后去运行 JS。
 
 
