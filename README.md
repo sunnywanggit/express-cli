@@ -5,7 +5,7 @@
 ## 使用方法
 
 ```
-git clone 
+git clone git@github.com:sunnywanggit/express-cli.git
 yarn install
 node-dev app2.js 或者 ts-node-dev app1.ts
 ```
